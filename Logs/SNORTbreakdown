@@ -1,0 +1,13 @@
+06/24-14:50:30.507645  [**] [1:2012491:7] ET TROJAN Suspicious User-Agent (Presto) [**] [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 192.168.41.10:1044 -> 37.157.255.37:80
+  ^    ^              ^           ^
+  |    |              |           |
+  |    |              |           |
+  |    |          Two Spaces      |
+  |    |                       Intrusion
+  |    |                       Signature
+  |    |
+  |   Time
+Date
+
+Delimiters:
+Date-time.[ignore]
